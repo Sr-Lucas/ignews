@@ -59,6 +59,7 @@ As seguintes tecnologias foram utilizadas no projeto:
 - [Prismic CMS](https://prismic.io/)
 - [Stripe](https://stripe.com/)
 - [FaunaDB](https://fauna.com/)
+- [GraphQL](https://graphql.org/)
 
 ## :white_check_mark: Requerimentos ##
 
