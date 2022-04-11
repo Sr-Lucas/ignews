@@ -1,0 +1,21 @@
+{
+  "id": "28b2a2be-c994-4f69-8bdd-7f14d54cf504",
+  "uid": "soluta-nostrum-officia",
+  "type": "publication",
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Morph open-source web services",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Nulla aliqua qui elit id dolore. Sit aliqua voluptate nisi Lorem ipsum.",
+        "spans": []
+      }
+    ]
+  }
+}
